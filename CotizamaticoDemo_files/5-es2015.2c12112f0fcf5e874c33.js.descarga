@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{fAp4:function(n,o,t){"use strict";t.r(o),t.d(o,"CotizarModule",function(){return c});var r=t("ofXK"),e=t("3Pt+"),u=t("fuKw"),i=t("fXoL");let c=(()=>{class n{}return n.\u0275mod=i.Gb({type:n}),n.\u0275inj=i.Fb({factory:function(o){return new(o||n)},imports:[[r.b,e.b,u.a]]}),n})()}}]);
